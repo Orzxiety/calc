@@ -1,2 +1,2 @@
-# calc
-The simplest calculator on Python
+# The simplest calculator on Python
+Just using `eval` and `print`.
